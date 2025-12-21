@@ -36,7 +36,8 @@ The analysis aims to provide actionable insights including:
 -	Daily Travelers Count
 -	Identification Of Peak hours
 -	Average delay time
--	Identification of Top Routes 
+-	Identification of Top Routes
+-	Seasonality In Sales
 -	Revenue Analysis
 -	Recommendations on service optimization and promotional strategies.
 
@@ -107,7 +108,7 @@ Several new columns were created to improve the dataset and allow for deeper ana
 
 - ***Year:*** Extracted from the journey date, this column supports time-based trend analysis across different years.
 - ***Month:***  This column enables the examination of journey patterns and revenue trends by month.
-- ***Day:***  Captures the specific day of the week to identify peak travel days and travel behaviour patterns.
+- ***Day:***  Captures the specific day of the week to identify peak daily sales/revenue.
 - ***Route:***  Created by combining the departure and arrival stations, this column helps with route-based performance and revenue analysis.
 - ***Delay Time:***  Calculated as the difference between the actual arrival time and scheduled arrival time, this column is essential for delay analysis and performance assessment.
   
@@ -143,20 +144,46 @@ From the analysis:
 •	The evening period around 4 PM to 6 PM maintained strong activity.
 This indicates that demand is highest during morning and evening periods, likely due to work, school schedules, and leisure travel patterns.
 
-**3. What are the main factors contributing to train delays?**
+**3. What is the daily sales revenue?**
+The objective of this question is to idemtify how revenue changes acrooss each day of the week,helping to identify sales pattern, demand behaviour, and effective operational planning.
+
+From the analysis:
+
+- Wednesday generated the highest revenue ( £111,177 )
+This suggests increased movement mid-week, possibly linked to business travel or commuting cycles.
+
+- Saturday recorded the lowest revenue ( £95,940 )
+This indicates lower weekend travel activity, likely due to reduced work-related movement.
+
+- Sunday also remained below average ( £100,052 )
+Showing quieter travel demand at the start of the week.
+
+- Revenue increased sharply from Sunday to Wednesday, decreased on Thursday, recovered on Friday, and fell on Saturday.
+
+**4. What are the main factors contributing to train delays?**
 The purpose of this analysis is to understand why delays occur and how they affect operational efficiency. Using the reason for delay field, trains were grouped and counted to show the most common causes.
 From the analysis:
-•	Weather conditions recorded the highest delay count.
-•	Technical issues and signal failures also contributed significantly.
-•	Other causes included staff shortage and train faults, though at lower levels.
-This indicates that delays are driven primarily by infrastructure and environmental factors.
 
-**4. Which routes generated the most revenue?**
+-	Weather conditions recorded the highest delay count.
+
+-	Technical issues and signal failures also contributed significantly.
+
+-	Other causes included staff shortage and train faults, though at lower levels.
+
+- This indicates that delays are driven primarily by infrastructure and environmental factors.
+
+**5. Which routes generated the most revenue?**
 Revenue by route was evaluated to determine which travel paths are most profitable. Using a pivot chart, the route field was placed in the rows section while revenue was summed.
 From the analysis:
+
 Top routes include:
-•	London Euston → Manchester Piccadilly
-•	Birmingham New Street → London Euston
-•	Manchester Piccadilly → London Euston
+-	London Euston → Manchester Piccadilly
+
+-	Birmingham New Street → London Euston
+
+-	Manchester Piccadilly → London Euston
+
 Underperforming routes generated significantly lower revenue, likely due to shorter distance, lower ticket cost, or reduced customer demand.
+
+
 
