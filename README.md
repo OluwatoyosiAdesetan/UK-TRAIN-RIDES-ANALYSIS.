@@ -159,3 +159,4 @@ Top routes include:
 •	Birmingham New Street → London Euston
 •	Manchester Piccadilly → London Euston
 Underperforming routes generated significantly lower revenue, likely due to shorter distance, lower ticket cost, or reduced customer demand.
+
