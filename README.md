@@ -139,6 +139,9 @@ The primary aim of this analysis is to derive valuable insights from UK Train Ri
 The total number of train rides recorded in the data is 31,653 generating a total revenue of £741,921.
 This demonstrates a strong commercial performance and confirms widespread rail usage across multiple routes in the UK. With thousands of rides completed, the dataset reflects a reliable customer demand base for rail transportation services.
 
+[<img width="897" height="76" alt="KPIS" src=](https://github.com/user-attachments/assets/bdae40ed-b8b0-4ac7-9be4-072fd01448ab) 
+
+
 **2. What are the peak travel times?**
 The objective of this question is to identify the periods of the day during which the rail system experiences the highest travel activity. To achieve this, the hour field was placed in the row section of the pivot table and the count of rides was calculated and visualised in a bar chart.
 From the analysis:
