@@ -293,9 +293,9 @@ Based on the analysis above, several strategic recommendations are proposed:
 -	Regularly adjust train schedules based on travel patterns and gather passenger feedback to improve services.
 
 ### Conclusion
-This analysis provides a comprehensive understanding of railway ticket sales, passenger behavior, and operational performance. The insights generated identify high- and low-performing routes, peak travel times, and revenue drivers. Implementing the recommended strategies can improve revenue, optimize operations, and enhance customer experience. The interactive dashboards provide management with a practical tool for continuous monitoring and data-driven decision-making. Thank you for reading
+This analysis provides a comprehensive understanding of railway ticket sales, passenger behavior, and operational performance. The insights generated identify high- and low-performing routes, peak travel times, and revenue drivers. Implementing the recommended strategies can improve revenue, optimize operations, and enhance customer experience. The interactive dashboards provide management with a practical tool for continuous monitoring and data-driven decision-making. Thank you for reading.
 
-I am interested in a Data Analyst role where I can showcase my skills, turn raw data into insights, continue to learn, an organization I can grow with,where my work will make an imoact to the organization
+I am interested in a Data Analyst role where I can showcase my skills, turn raw data into insights, continue to learn, an organization I can grow with,where my work will make an imoact to the organization.
 You can reach me on oluwatoyosiadesetan@gmail.com
 
 THANK YOU!
