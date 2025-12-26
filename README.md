@@ -169,6 +169,9 @@ Showing quieter travel demand at the start of the week.
 
 - Revenue increased sharply from Sunday to Wednesday, decreased on Thursday, recovered on Friday, and fell on Saturday.
 
+[<img width="522" height="135" alt=Daily Sales Trend" src=](https://github.com/user-attachments/assets/d2b0ae30-497a-4486-a67c-ba75b0b6e3bb) 
+
+
 **4. What are the main factors contributing to train delays?**
 The purpose of this analysis is to understand why delays occur and how they affect operational efficiency. Using the reason for delay field, trains were grouped and counted to show the most common causes.
 From the analysis:
@@ -180,6 +183,9 @@ From the analysis:
 -	Other causes included staff shortage and train faults, though at lower levels.
 
 - This indicates that delays are driven primarily by infrastructure and environmental factors.
+
+[<img width="267" height="339" alt="Main Contributing Factors" src=](https://github.com/user-attachments/assets/369ec9f1-1bc1-458d-acb3-bc88c6b8d048)
+
 
 **5. Which routes generated the most revenue?**
 Revenue by route was evaluated to determine which travel paths are most profitable. Using a pivot chart, the route field was placed in the rows section while revenue was summed.
@@ -196,19 +202,27 @@ Underperforming routes generated significantly lower revenue, likely due to shor
 
 This shows that the business relies heavily on major city-to-city routes for earnings.
 
+[<img width="439" height="342" alt="Revenue By Route" src=](https://github.com/user-attachments/assets/2c6f3610-00a6-4d7d-88d0-3463b0369f9c)
+
+
 **6. Which ticket types and classes are most preferred?
 
 Customer ticket preferences were analyzed using ticket type and class fields.
-Ticket Type Analysis:
+**Ticket Type Analysis:
 
 -	Advance tickets generated the highest share of revenue at 31.01%.
 
 -	Off-peak tickets followed closely at 27.21%.
-  
-Ticket Class Analysis:
+
+[<img width="275" height="153" alt="Revenue By Ticket Types" src=](https://github.com/user-attachments/assets/597707ca-b42a-43d1-bae6-67160baebc4c)
+
+
+**Ticket Class Analysis:
 -	Standard class contributed 79.89% of total revenue.
 -	First class contributed 20.11%.
 This shows that most customers prioritize value and affordability.
+
+[<img width="249" height="157" alt="Revenue By Ticket Class" src=](https://github.com/user-attachments/assets/ff8c43ae-fc73-40ef-8465-76e816a5a80b)
 
 **7. How did Railcards contribute to revenue?**
    
@@ -222,39 +236,62 @@ From the dashboard:
 -	
 This reflects a diverse customer base with strong utilization of discount schemes.
 
-**9. What payment methods do customers prefer?**
+[<img width="279" height="177" alt="Revenue By Railcard" src=](https://github.com/user-attachments/assets/dda6f199-a61f-41c2-bf92-d1cb7001729b)
+
+
+**8. What payment methods do customers prefer?**
 Payment method data reveals transaction habits and technology usage levels.
 
 From the analysis:
 
 -	Credit cards accounted for most revenue transactions.
--	
+  
 -	Contactless were also widely used.
--	
+  
 -	Debit cards were the smallest share.
--	
+  
 This shows that most customers still prefer direct card payments, providing opportunities to grow digital ticketing.
+
+[<img width="248" height="180" alt="Revenue By Payment Method" src=](https://github.com/user-attachments/assets/a783e2b7-c274-44aa-8bed-9a5289b067ea)
+
 
 ###Recommendations
 Based on the analysis above, several strategic recommendations are proposed:
-•	Prioritize staffing and customer support during peak hours, particularly between 6 AM – 6 PM, to handle the highest passenger volume.
-•	Increase staff and train capacity 6AM – 6 PM to maintain service quality.
-•	Reduce operating frequency early mornings and late nights to optimize cost
-•	Prepare for increased travel activity on busiest routes such as London → Manchester and Birmingham → London.
-•	Use pricing strategies, marketing, and scheduling adjustments to boost ridership. For consistently low-value routes, review timetable efficiency and service frequency to reduce unnecessary operating costs.
-•	Plan preventive maintenance before peak periods.
-•	Increase inspection and maintenance frequency to reduce technical and signal delays.
-•	Improve weather monitoring systems to anticipate weather-related disruption.
-•	Strengthen staffing arrangements to prevent shortage-related delays.
-•	Continue promoting Advance and Off-Peak tickets, as they are most profitable and widely used.
-•	Advertise Standard class travel benefits since it attracts the highest volume of customers.
-•	Introduce digital booking incentives to increase online payment adoption
-•	Evaluate weaker revenue routes to determine whether to adjust train frequency, timing, or marketing strategy.
-•	Promote Railcard options to encourage loyalty and repeat purchases.
-•	Increase marketing efforts and consider introducing new railcard types to attract more passengers.
-•	Improve real-time information updates for delayed services
-•	Regularly adjust train schedules based on travel patterns and gather passenger feedback to improve services.
-Conclusion	
+-	Prioritize staffing and customer support during peak hours, particularly between 6 AM – 6 PM, to handle the highest passenger volume.
+  
+-	Increase staff and train capacity 6AM – 6 PM to maintain service quality.
+  
+-	Reduce operating frequency early mornings and late nights to optimize cost
+
+-	Prepare for increased travel activity on busiest routes such as London → Manchester and Birmingham → London.
+  
+-	Use pricing strategies, marketing, and scheduling adjustments to boost ridership. For consistently low-value routes, review timetable efficiency and service frequency to reduce unnecessary operating costs.
+  
+-	Plan preventive maintenance before peak periods.
+  
+-	Increase inspection and maintenance frequency to reduce technical and signal delays.
+
+-	Improve weather monitoring systems to anticipate weather-related disruption.
+
+-	Strengthen staffing arrangements to prevent shortage-related delays.
+
+-	Continue promoting Advance and Off-Peak tickets, as they are most profitable and widely used.
+
+-	Advertise Standard class travel benefits since it attracts the highest volume of customers.
+
+-	Introduce digital booking incentives to increase online payment adoption
+
+-	Evaluate weaker revenue routes to determine whether to adjust train frequency, timing, or marketing strategy.
+
+-	Promote Railcard options to encourage loyalty and repeat purchases.
+
+-	Increase marketing efforts and consider introducing new railcard types to attract more passengers.
+
+-	Improve real-time information updates for delayed services
+
+-	Regularly adjust train schedules based on travel patterns and gather passenger feedback to improve services.
+
+###Conclusion	
 This analysis provides a comprehensive understanding of railway ticket sales, passenger behavior, and operational performance. The insights generated identify high- and low-performing routes, peak travel times, and revenue drivers. Implementing the recommended strategies can improve revenue, optimize operations, and enhance customer experience. The interactive dashboards provide management with a practical tool for continuous monitoring and data-driven decision-making. Thank you for reading
 
 I am interested in a Data Analyst role where I can showcase my skills, turn raw data into insights, continue to learn, an organization I can grow with,where my work will make an imoact to the organization
