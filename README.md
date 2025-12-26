@@ -231,9 +231,9 @@ Railcard analysis helps determine customer profile segments and pricing advantag
 From the dashboard:
 
 -	Adults produced the highest percentage of revenue.
--	
+	
 -	Disabled and Senior Railcards contributed steady revenue levels.
--	
+	
 This reflects a diverse customer base with strong utilization of discount schemes.
 
 [<img width="279" height="177" alt="Revenue By Railcard" src=](https://github.com/user-attachments/assets/dda6f199-a61f-41c2-bf92-d1cb7001729b)
