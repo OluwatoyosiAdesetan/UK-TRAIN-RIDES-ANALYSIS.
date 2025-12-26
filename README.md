@@ -255,7 +255,8 @@ This shows that most customers still prefer direct card payments, providing oppo
 [<img width="248" height="180" alt="Revenue By Payment Method" src=](https://github.com/user-attachments/assets/a783e2b7-c274-44aa-8bed-9a5289b067ea)
 
 
-###Recommendations
+### RECOMMENDATIONS
+
 Based on the analysis above, several strategic recommendations are proposed:
 -	Prioritize staffing and customer support during peak hours, particularly between 6 AM – 6 PM, to handle the highest passenger volume.
   
@@ -291,7 +292,7 @@ Based on the analysis above, several strategic recommendations are proposed:
 
 -	Regularly adjust train schedules based on travel patterns and gather passenger feedback to improve services.
 
-###Conclusion	
+### CONCLUSION	
 This analysis provides a comprehensive understanding of railway ticket sales, passenger behavior, and operational performance. The insights generated identify high- and low-performing routes, peak travel times, and revenue drivers. Implementing the recommended strategies can improve revenue, optimize operations, and enhance customer experience. The interactive dashboards provide management with a practical tool for continuous monitoring and data-driven decision-making. Thank you for reading
 
 I am interested in a Data Analyst role where I can showcase my skills, turn raw data into insights, continue to learn, an organization I can grow with,where my work will make an imoact to the organization
