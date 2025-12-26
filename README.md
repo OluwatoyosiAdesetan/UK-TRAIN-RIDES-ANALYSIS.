@@ -147,7 +147,11 @@ The objective of this question is to identify the periods of the day during whic
 From the analysis:
 •	6AM – 8AM recorded the highest travel volume.
 •	The evening period around 4 PM to 6 PM maintained strong activity.
-This indicates that demand is highest during morning and evening periods, likely due to work, school schedules, and leisure travel patterns.
+This indicates that demand is highest during morning and evening periods, likely due to work, school schedules, and leisure travel 
+patterns.
+
+[<img width="1254" height="142" alt="Peak Travel Times" src=](https://github.com/user-attachments/assets/935e0a37-c743-4e4e-bd2e-389c7bebe422)
+
 
 **3. What is the daily sales revenue?**
 The objective of this question is to idemtify how revenue changes acrooss each day of the week,helping to identify sales pattern, demand behaviour, and effective operational planning.
