@@ -46,7 +46,7 @@ The analysis aims to provide actionable insights including:
 ### Document Purpose
 This report provides a comprehensive analysis of railway ticketing data, presenting key insights and trends in ticket sales and revenue. It highlights operational inefficiencies and underperforming areas, offers actionable recommendations to support decision-making and strategic planning, and serves as a reference document for stakeholders and management.
 
-Use Case
+### Use Case
 Stakeholders Benefiting from the Analysis
 1. Railway Management and Executives
    
@@ -117,7 +117,7 @@ Several new columns were created to improve the dataset and allow for deeper ana
 These added fields support the evaluation of travel behaviour, seasonality, customer patterns, and operational efficiency. They also enable deeper insights into performance across time periods, regions, and travel routes.
 By expanding and enriching the dataset with these new columns, I have created a more detailed foundation for dashboard development and data storytelling, ensuring more precise analysis and stronger insights.
 
-### DATA ANALYSIS AND INSIGHTS
+### Data Analysis And Insights
 
 The primary aim of this analysis is to derive valuable insights from UK Train Rides data by conducting a comprehensive examination of key business indicators. This analysis focuses on several critical objectives. Firstly, it aims to identify how many train rides occurred and how revenue was generated across different routes, enabling an understanding of operational efficiency and route performance. Secondly, the analysis seeks to determine the primary causes of train delays and the level of punctuality achieved, helping to assess service reliability. Thirdly, it aims to analyze customer ticket preferences, including ticket type, ticket class, Railcard usage, and payment method choices. Finally, this analysis seeks to determine peak travel hours and understand how customer behaviour varies across different periods of the day.
 
@@ -255,7 +255,7 @@ This shows that most customers still prefer direct card payments, providing oppo
 [<img width="248" height="180" alt="Revenue By Payment Method" src=](https://github.com/user-attachments/assets/a783e2b7-c274-44aa-8bed-9a5289b067ea)
 
 
-### RECOMMENDATIONS
+### Recommendations
 
 Based on the analysis above, several strategic recommendations are proposed:
 -	Prioritize staffing and customer support during peak hours, particularly between 6 AM – 6 PM, to handle the highest passenger volume.
@@ -292,7 +292,7 @@ Based on the analysis above, several strategic recommendations are proposed:
 
 -	Regularly adjust train schedules based on travel patterns and gather passenger feedback to improve services.
 
-### CONCLUSION	
+### Conclusion
 This analysis provides a comprehensive understanding of railway ticket sales, passenger behavior, and operational performance. The insights generated identify high- and low-performing routes, peak travel times, and revenue drivers. Implementing the recommended strategies can improve revenue, optimize operations, and enhance customer experience. The interactive dashboards provide management with a practical tool for continuous monitoring and data-driven decision-making. Thank you for reading
 
 I am interested in a Data Analyst role where I can showcase my skills, turn raw data into insights, continue to learn, an organization I can grow with,where my work will make an imoact to the organization
