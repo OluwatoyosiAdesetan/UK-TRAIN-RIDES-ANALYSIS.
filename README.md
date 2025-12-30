@@ -1,7 +1,7 @@
 # UK-TRAIN-RIDES-ANALYSIS
 An excel file showing train ticket data for National Rail in the UK, from Jan to Apr 2024, including details on the type of ticket, the date &amp; time for each journey, the departure &amp; arrival stations, the ticket price, and more. The goal is to derive actionable insights and provide recommendations to optimize overall operational effectiveness.
 
-[<img width="1251" height="587" alt="DASHBOARD" src=](https://github.com/user-attachments/assets/da76c74f-365d-44c1-abe1-0693ca515d68)
+<img width="1251" height="587" alt="DASHBOARD" src="https://github.com/user-attachments/assets/dfab3ee6-f875-439c-a4e4-cc1ed9492643" />
 
 ### Table of Contents
 - Project Overview
@@ -139,7 +139,10 @@ The primary aim of this analysis is to derive valuable insights from UK Train Ri
 The total number of train rides recorded in the data is 31,653 generating a total revenue of £741,921.
 This demonstrates a strong commercial performance and confirms widespread rail usage across multiple routes in the UK. With thousands of rides completed, the dataset reflects a reliable customer demand base for rail transportation services.
 
-[<img width="897" height="76" alt="KPIS" src=](https://github.com/user-attachments/assets/bdae40ed-b8b0-4ac7-9be4-072fd01448ab) 
+
+
+<img width="897" height="76" alt="KPIS" src="https://github.com/user-attachments/assets/33e4869e-b3e5-4dfd-af98-90f3ca3aefbe" />
+
 
 
 **2. What are the peak travel times?**
@@ -150,7 +153,10 @@ From the analysis:
 This indicates that demand is highest during morning and evening periods, likely due to work, school schedules, and leisure travel 
 patterns.
 
-[<img width="1254" height="142" alt="Peak Travel Times" src=](https://github.com/user-attachments/assets/935e0a37-c743-4e4e-bd2e-389c7bebe422)
+
+
+<img width="1254" height="142" alt="Peak Travel Times" src="https://github.com/user-attachments/assets/f3b73869-c192-4ae7-92f5-e82da8286c6f" />
+
 
 
 **3. What is the daily sales revenue?**
