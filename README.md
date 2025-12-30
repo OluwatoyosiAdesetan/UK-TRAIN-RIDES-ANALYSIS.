@@ -175,7 +175,7 @@ Showing quieter travel demand at the start of the week.
 
 - Revenue increased sharply from Sunday to Wednesday, decreased on Thursday, recovered on Friday, and fell on Saturday.
 
-[<img width="522" height="135" alt=Daily Sales Trend" src=](https://github.com/user-attachments/assets/d2b0ae30-497a-4486-a67c-ba75b0b6e3bb) 
+<img width="522" height="135" alt="Daily Sales Trend" src="https://github.com/user-attachments/assets/8813fa5b-1b13-4a7b-98bc-dca285832805" />
 
 
 **4. What are the main factors contributing to train delays?**
@@ -190,7 +190,7 @@ From the analysis:
 
 - This indicates that delays are driven primarily by infrastructure and environmental factors.
 
-[<img width="267" height="339" alt="Main Contributing Factors" src=](https://github.com/user-attachments/assets/369ec9f1-1bc1-458d-acb3-bc88c6b8d048)
+<img width="267" height="339" alt="Main Contributing Factors" src="https://github.com/user-attachments/assets/9e6cb187-85bb-46cb-a87d-ac469e8d8f2b" />
 
 
 **5. Which routes generated the most revenue?**
@@ -208,19 +208,22 @@ Underperforming routes generated significantly lower revenue, likely due to shor
 
 This shows that the business relies heavily on major city-to-city routes for earnings.
 
-[<img width="439" height="342" alt="Revenue By Route" src=](https://github.com/user-attachments/assets/2c6f3610-00a6-4d7d-88d0-3463b0369f9c)
+<img width="439" height="342" alt="Revenue By Route" src="https://github.com/user-attachments/assets/41af52a7-0987-4fb1-b463-70751a0ba955" />
+
 
 
 **6. Which ticket types and classes are most preferred?
 
 Customer ticket preferences were analyzed using ticket type and class fields.
+
 **Ticket Type Analysis:
 
 -	Advance tickets generated the highest share of revenue at 31.01%.
 
 -	Off-peak tickets followed closely at 27.21%.
+  
+<img width="275" height="153" alt="Revenue By Ticket Types" src="https://github.com/user-attachments/assets/efa32ee8-e2cf-4038-a10e-8dcb2d36fabc" />
 
-[<img width="275" height="153" alt="Revenue By Ticket Types" src=](https://github.com/user-attachments/assets/597707ca-b42a-43d1-bae6-67160baebc4c)
 
 
 **Ticket Class Analysis:
@@ -228,7 +231,8 @@ Customer ticket preferences were analyzed using ticket type and class fields.
 -	First class contributed 20.11%.
 This shows that most customers prioritize value and affordability.
 
-[<img width="249" height="157" alt="Revenue By Ticket Class" src=](https://github.com/user-attachments/assets/ff8c43ae-fc73-40ef-8465-76e816a5a80b)
+<img width="249" height="157" alt="Revenue By Ticket Class" src="https://github.com/user-attachments/assets/2432409b-5c01-4923-8f07-509ae248dc5b" />
+
 
 **7. How did Railcards contribute to revenue?**
    
@@ -242,7 +246,7 @@ From the dashboard:
 	
 This reflects a diverse customer base with strong utilization of discount schemes.
 
-[<img width="279" height="177" alt="Revenue By Railcard" src=](https://github.com/user-attachments/assets/dda6f199-a61f-41c2-bf92-d1cb7001729b)
+<img width="279" height="177" alt="Revenue By Railcard" src="https://github.com/user-attachments/assets/6a9e5f6a-2c27-4ebd-a99f-5a3c779bf8c3" />
 
 
 **8. What payment methods do customers prefer?**
@@ -258,7 +262,8 @@ From the analysis:
   
 This shows that most customers still prefer direct card payments, providing opportunities to grow digital ticketing.
 
-[<img width="248" height="180" alt="Revenue By Payment Method" src=](https://github.com/user-attachments/assets/a783e2b7-c274-44aa-8bed-9a5289b067ea)
+<img width="248" height="180" alt="Revenue By Payment Method" src="https://github.com/user-attachments/assets/d504f5f1-98d1-4eb7-9cde-000a85cc5489" />
+
 
 
 ### Recommendations
