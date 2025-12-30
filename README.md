@@ -139,25 +139,31 @@ The primary aim of this analysis is to derive valuable insights from UK Train Ri
 The total number of train rides recorded in the data is 31,653 generating a total revenue of £741,921.
 This demonstrates a strong commercial performance and confirms widespread rail usage across multiple routes in the UK. With thousands of rides completed, the dataset reflects a reliable customer demand base for rail transportation services.
 
-
+<br>
 
 <img width="897" height="76" alt="KPIS" src="https://github.com/user-attachments/assets/33e4869e-b3e5-4dfd-af98-90f3ca3aefbe" />
 
+<br>
 
 
 **2. What are the peak travel times?**
 The objective of this question is to identify the periods of the day during which the rail system experiences the highest travel activity. To achieve this, the hour field was placed in the row section of the pivot table and the count of rides was calculated and visualised in a bar chart.
+
 From the analysis:
-•	6AM – 8AM recorded the highest travel volume.
-•	The evening period around 4 PM to 6 PM maintained strong activity.
+
+-	6AM – 8AM recorded the highest travel volume.
+-	
+-	The evening period around 4 PM to 6 PM maintained strong activity.
+-	
 This indicates that demand is highest during morning and evening periods, likely due to work, school schedules, and leisure travel 
 patterns.
 
-
+<br>
 
 <img width="1254" height="142" alt="Peak Travel Times" src="https://github.com/user-attachments/assets/f3b73869-c192-4ae7-92f5-e82da8286c6f" />
 
 
+<br>
 
 **3. What is the daily sales revenue?**
 The objective of this question is to idemtify how revenue changes acrooss each day of the week,helping to identify sales pattern, demand behaviour, and effective operational planning.
@@ -175,11 +181,16 @@ Showing quieter travel demand at the start of the week.
 
 - Revenue increased sharply from Sunday to Wednesday, decreased on Thursday, recovered on Friday, and fell on Saturday.
 
+<br>
+
 <img width="522" height="135" alt="Daily Sales Trend" src="https://github.com/user-attachments/assets/8813fa5b-1b13-4a7b-98bc-dca285832805" />
 
+<br>
 
 **4. What are the main factors contributing to train delays?**
+
 The purpose of this analysis is to understand why delays occur and how they affect operational efficiency. Using the reason for delay field, trains were grouped and counted to show the most common causes.
+
 From the analysis:
 
 -	Weather conditions recorded the highest delay count.
@@ -190,8 +201,11 @@ From the analysis:
 
 - This indicates that delays are driven primarily by infrastructure and environmental factors.
 
+<br>
+
 <img width="267" height="339" alt="Main Contributing Factors" src="https://github.com/user-attachments/assets/9e6cb187-85bb-46cb-a87d-ac469e8d8f2b" />
 
+<br>
 
 **5. Which routes generated the most revenue?**
 Revenue by route was evaluated to determine which travel paths are most profitable. Using a pivot chart, the route field was placed in the rows section while revenue was summed.
@@ -250,6 +264,7 @@ This reflects a diverse customer base with strong utilization of discount scheme
 
 
 **8. What payment methods do customers prefer?**
+
 Payment method data reveals transaction habits and technology usage levels.
 
 From the analysis:
